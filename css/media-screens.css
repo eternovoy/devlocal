@@ -1,0 +1,875 @@
+@media screen and (max-width: 1690px) {
+
+}
+@media screen and (max-width: 1590px) {
+
+}
+@media screen and (max-width: 1530px) {
+
+}
+@media screen and (max-width: 1500px) {
+
+  	.response-class {
+	  	height: auto!important;
+	  	padding-bottom: 50px;
+	  	margin-top: 50px;
+  	}
+  	.sponsor-cont-s {
+	    margin-top: 0;
+	}
+	.speaker-cont-section {
+	    margin-top: 0;
+			margin-bottom: 20px;
+	}
+	.pr-content-s {
+	    margin-top: 0;
+	}
+	.co-content-s {
+	    margin-top: 0;
+	}
+  	.media-1500-menu {
+	  	display: block;
+  	}
+  	.top-media-network {
+		position: absolute;
+		bottom: 0;
+	}
+	.ev-title:before {
+		display: none;
+	}
+	.loc-media-m {
+	    margin-top: 0;
+			margin-bottom: 0;
+	}
+	.ticket-bg-top {
+		background-size: 50%;
+	}
+	.ev-bg-bottom {
+		background-size: 50%;
+	}
+	.home-white-logo img {
+		width: 400px;
+	}
+	.cont-m-top {
+    margin-top: 100px;
+    margin-bottom: 20px;
+	}
+	.ticket-bg-top {
+		 padding: 10px 0;
+	}
+}
+@media screen and (max-height: 950px) {
+  	.home-white-logo img {
+		width: 400px;
+	}
+  	.loc-media-m {
+	    margin-top: 0;
+	}
+  	.response-class {
+	  	height: auto!important;
+	  	padding-bottom: 50px;
+	  	margin-top: 50px;
+  	}
+  	.sponsor-cont-s {
+	    margin-top: 0;
+	}
+	.speaker-cont-section {
+	    margin-top: 0;
+	}
+	.pr-content-s {
+	    margin-top: 0;
+	}
+	.co-content-s {
+	    margin-top: 0;
+	}
+  	.media-1500-menu {
+	  	display: block;
+  	}
+  	.top-media-network {
+		position: absolute;
+		bottom: 0;
+	}
+	.ev-title:before {
+		display: none;
+	}
+	.ticket-bg-top {
+		background-size: 50%;
+	}
+	.ev-bg-bottom {
+		background-size: 50%;
+	}
+}
+@media screen and (max-width: 1400px) {
+	.ev-title:before {
+		display: none;
+	}
+
+}
+@media screen and (max-width: 1366px) {
+	.home-white-logo img {
+		width: 400px;
+	}
+  .sp-modal-d-two {
+    max-width: 100%;
+  }
+  .sp-modal-right-two .sp-two-content {
+    margin-left: 20px;
+  }
+  .sp-modal-right-two .sp-two-img img {
+        margin-left: 15px;
+  }
+  .sp-two-img img {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    position: relative;
+  }
+  .sp-modal-left-two .sp-two-img img {
+    right: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .sp-modal-right-two {
+    width: 500px;
+  }
+}
+@media screen and (max-width: 1260px) {
+	.devops-menu li a {
+		font-size: 10px;
+	}
+	.header-section-mobile .devops-menu li {
+	    padding: 55px 5px 5px;
+	}
+	.fixed-media .devops-menu li {
+	    padding: 55px 5px 5px;
+	}
+	.fixed-media .menu-btn {
+	    margin-top: 55px;
+	}
+	.ev-content-text p {
+		font-size: 12px;
+	}
+	.ev-title img {
+		width: 400px;
+	}
+	.ev-count-block h2 {
+		font-size: 52px;
+	}
+	.ev-count-block p {
+		font-size: 16px;
+	}
+	.ticket-bg-s {
+		margin: 0 50px;
+	}
+	.sp-logo-bg {
+		width: 140px;
+		margin: 0 15px;
+	}
+	.pr-content-s .ev-title img {
+		width: 250px;
+	}
+	.co-title img {
+		width: 250px;
+	}
+	.pr-content-blok {
+	    margin-top: 100px;
+	}
+	.ticket-content-s {
+	    margin-top: 140px;
+	}
+
+
+}
+@media screen and (max-width: 1200px) {
+	.ticket-bg-s {
+		margin: 0 10px;
+	}
+  .ag-sp-name {
+    font-size: 15px;
+  }
+  .ag-sp-theme {
+    font-size: 14px;
+  }
+  .ag-sp-name-not {
+    font-size: 15px;
+  }
+  .ag-title-f p {
+    font-size: 18px;
+  }
+  .ag-t-b:first-of-type {
+    margin-left: 235px;
+  }
+  .ag-t-b:nth-of-type(2) {
+    margin-left: 200px;
+  }
+  .ag-t-b:last-of-type {
+    margin-left: 200px;
+  }
+  .one-ag .ag-sp-content {
+    text-align: center;
+    padding: 50px 20px 50px 20px;
+  }
+  .agenda-time-one {
+    margin-top: 55px;
+  }
+  .ag-days-title h2 {
+    font-size: 28px;
+  }
+  .ag-breake p {
+    font-size: 25px;
+  }
+  .ag-days-title {
+    margin-top: 50px;
+  }
+  .agenda-block {
+    margin-bottom: 100px;
+  }
+  .agenda-time p:nth-of-type(1):after {
+    left: 5px;
+  }
+
+}
+@media screen and (max-width: 1190px) {
+
+}
+@media screen and (max-width: 1060px) {
+	 .sp-modal-left img {
+	    -webkit-transform: scale(1.0);
+	    -moz-transform: scale(1.0);
+	    -o-transform: scale(1.0);
+	    transform: scale(1.0);
+	    position: relative;
+	    right: 0;
+	}
+	.sp-modal-d {
+		max-width: 100%;
+	}
+	.partner-modal-d {
+	    max-width: 100%;
+	}
+	.sp-modal-right {
+		width: 60%;
+	}
+	.sp-modal-left {
+		width: 40%
+	}
+	.partner-modal-right {
+		width: 250px;
+	}
+	.partner-modal-left {
+		width: 300px
+	}
+	.partner-modal-left img {
+	    -webkit-transform: scale(1);
+	    -moz-transform: scale(1);
+	    -o-transform: scale(1);
+	    transform: scale(1);
+	    position: relative;
+	    right: 0;
+	}
+  .sp-modal-left-two {
+    width: 50%;
+    float: left;
+  }
+  .sp-modal-right-two {
+    width: 50%;
+    float: left;
+  }
+  .sp-two-content {
+    display: block;
+  }
+  .sp-two-img {
+    display: block;
+  }
+  .sp-modal-content-two {
+    margin-left: 20px;
+    margin-bottom: 30px;
+  }
+  .sp-modal-left-two .sp-two-content {
+    margin-left: 20px;
+    top: auto;
+  }
+  .sp-modal-right-two .sp-two-content {
+    margin-left: 20px;
+    top: auto;
+  }
+  .sp-modal-left-two .sp-two-img img {
+    right: 0;
+    margin-left: 20px;
+    margin-right: 0;
+    margin-top: 25px
+  }
+  .sp-modal-right-two .sp-two-img img {
+    margin-left: 20px;
+  }
+ }
+@media screen and (max-width: 1024px) {
+	.home-section {
+		background: url(/wp-content/themes/devops-days-kazan/images/devops-days-bg-home.png);
+
+	}
+}
+@media screen and (max-width: 990px) {
+  .three-ag {
+    margin-right: 30px;
+  }
+  .ag-margin {
+    margin: 30px 0 30px 0;
+  }
+  .ag-sp-name {
+    font-size: 12px;
+  }
+  .ag-sp-company {
+    font-size: 12px;
+  }
+  .ag-sp-theme {
+    font-size: 12px;
+  }
+  .ag-breake p {
+    font-size: 18px;
+  }
+  .agenda-bl-workshop-not {
+    background-size: cover;
+  }
+  .agenda-time-three {
+    margin-top: 65px;
+  }
+  .agenda-time {
+    margin-right: 20px;
+  }
+  .ag-t-b:last-of-type {
+    margin-left: 120px;
+  }
+  .ag-t-b:nth-of-type(2) {
+    margin-left: 115px;
+  }
+  .ag-t-b:first-of-type {
+    margin-left: 180px;
+  }
+  .agenda-time p:nth-of-type(1):after {
+    left: 5px;
+  }
+  .ag-days-title {
+    margin-left: 128px;
+  }
+  .ag-days-title h2 {
+    font-size: 20px;
+  }
+  .three-ag .ag-sp-content {
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+  }
+	.ticket-bg-s {
+	    margin: 0 10px;
+	    width: 210px;
+	    background-size: 100%!important;
+	    background-repeat: no-repeat!important;
+	}
+	.ticket-b {
+	    width: 225px;
+	}
+	.ticket-b-title {
+	    padding-left: 35px;
+	}
+	.ticket-b-price {
+		margin-top: 40px;
+	}
+	.ticket-b-price p {
+		font-size: 45px;
+	}
+	.ticket-b-price p::after {
+		right: 25px;
+	    bottom: -15px;
+	    font-size: 14px;
+	}
+	.ticket-social {
+	    margin-top: 0;
+	}
+	.ticket-social .soc-networks {
+	    margin-top: 0;
+	}
+	.ticket-b-title h2 {
+		font-size: 16px;
+	}
+	.sp-logo-bg {
+	    width: 100px;
+	    margin: 0 10px;
+	    height: 120px;
+	}
+	.co-description {
+		top: 200px;
+	}
+	.co-block-f img {
+	    width: 100%;
+	}
+	.devops-menu li a {
+	    font-size: 6px;
+	}
+	.fixed-media .devops-menu li {
+	    padding: 55px 5px 5px;
+	}
+	.header-logo img {
+	    width: 130px;
+	}
+	.fixed-media .header-logo {
+	    margin-top: 48px;
+	}
+	.menu-btn a {
+	    font-size: 10px;
+	    padding: 5px 12px;
+	}
+	.ev-title img {
+	    width: 320px;
+	}
+	.ev-s-2 {
+	    padding-left: 25px;
+	}
+	.ev-s-1 {
+	    padding-right: 25px;
+	}
+	.ev-count-block {
+	    margin-right: 40px;
+	}
+	.ev-text-left p {
+		font-size: 14px;
+	}
+	.ev-count-block h2 {
+	    font-size: 45px;
+	}
+	.ev-count-block p {
+	    font-size: 14px;
+	} 
+
+}
+@media screen and (max-width: 890px) {
+	.home-content-s {
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	}
+	.speaker-cont-section {
+		margin-bottom: 0;
+	}
+}
+@media screen and (max-width: 768px) {
+	.media-1500-menu {
+		display: none;
+	}
+	.media-768-menu {
+		display: block;
+	}
+	.speaker-img img {
+	    width: 100%;
+	}
+	.hiden-mobile-menu {
+		display: none;
+	}
+	body.admin-bar {
+	    margin-top: 0 !important;
+	}
+	html #wpadminbar {
+		display: none!important;
+	}
+	.header-logo img {
+	    width: auto;
+	}
+	.fixed-media .header-logo {
+	    margin-top: 15px;
+	}
+	.button-menu {
+		text-align: right;
+	}
+	.button-menu img {
+		margin-top: 32px;
+	}
+	.home-social {
+		display: none;
+	}
+	.fixed-media .menu-btn {
+	    margin-top: 30px;
+
+	}
+	.menu-btn a {
+	    font-size: 15px;
+	    padding: 9px 15px;
+	}
+	.cont-m-top {
+	    margin-top: 50px;
+	}
+	.ev-two-section {
+		display: block!important;
+	}
+	.event-section {
+	    width: 100%;
+	}
+	.ev-s-1 {
+	    padding-right: 0;
+	    margin-bottom: 60px;
+	}
+	.ev-s-2 {
+	    padding-left: 0;
+	}
+	.ev-count-block {
+	    margin-right: 100px;
+	}
+	.ev-bg-bottom {
+		background: none;
+	}
+
+	.co-description {
+	    top: 200px;
+	    position: absolute;
+	    text-align: left;
+	    left: 20px;
+	}
+	.co-block-f {
+		margin-bottom: 150px;
+	}
+	.co-s-b {
+	    text-align: center;
+	}
+	.loc-media-m {
+		max-width: 100%;
+	}
+	.pr-content-blok {
+	    margin-top: 50px;
+	}
+	.pr-logo-bg {
+		width: 200px;
+		height: 200px;
+		margin: 0;
+	}
+	.ev-title {
+		margin-bottom: 30px;
+	}
+	.sp-content-f {
+		display: block!important;
+	}
+	.sp-title-b {
+	    margin-top: 40px;
+	    width: 100%;
+	}
+	.sp-logo-bg {
+	    width: 200px;
+	    margin: 0;
+	    height: 150px;
+	}
+	.ticket-content-f {
+		display: block!important;
+	}
+	.ticket-b {
+	    width: 100%;
+	    margin: 0 auto 50px;
+	}
+	.ticket-bg-s {
+		margin: 0 auto;
+		width: 280px;
+	}
+	.ticket-b-title h2 {
+	    font-size: 20px;
+	}
+	.ticket-b-price {
+	    margin-top: 60px;
+	}
+	.ticket-b-price p {
+	    font-size: 70px;
+	}
+	.sp-flex-b {
+		width: 50%;
+		float: left;
+	}
+	.speaker-slider .slick-dots {
+
+	}
+	.slick-list{
+	  overflow: hidden;
+	}
+	.slick-list:after{
+	  clear: both;
+	  content: "";
+	  display: block;
+	}
+	.ticket-bg-top {
+		background: none;
+	}
+}
+@media (max-width: 767px) {
+	.co-block-f img {
+		width: auto;
+	}
+  .subject-block {
+    width: 200px
+  }
+  .ag-days-title {
+    margin-left: 0;
+  }
+  .agenda-time p:nth-of-type(1):after {
+    left: 0;
+    right: 24px;
+    margin: 0 auto;
+  }
+  .agenda-time {
+    margin-right: 0;
+    border: none;
+    width: 100%;
+  }
+  .ag-title-f {
+    display: none;
+  }
+  .ag-breake p {
+    margin: 10px auto 0;
+  }
+  .ag-sp-name {
+    font-size: 16px;
+  }
+  .ag-sp-company {
+    font-size: 14px;
+  }
+  .ag-sp-theme {
+    font-size: 16px;
+  }
+  .three-ag .ag-sp-content {
+    text-align: center;
+    padding: 50px 20px 50px 20px;
+  }
+  .agenda-time-three {
+    margin-top: 0;
+  }
+  .agenda-time-one {
+    margin-top: 0;
+  }
+  .ag-margin {
+    margin: 50px 0 50px 0;
+  }
+  .three-ag {
+    margin-right: 0;
+    margin-bottom: 30px;
+  }
+  .agenda-bl {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .agenda-bl:hover {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .agenda-bl-workshop {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .agenda-bl-workshop:hover {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+  .agenda-bl-workshop-not {
+    background-size: contain;
+  }
+  .agenda-block {
+    margin-bottom: 50px;
+  }
+}
+@media (max-width: 730px) {
+	.sp-modal-left {
+	    width: 100%;
+	    float: none;
+	}
+	.sp-modal-right {
+	    float: none;
+	    width: 100%;
+	    margin-top: 50px;
+	}
+	.partner-modal-left {
+	    width: 100%;
+	    float: none;
+	}
+	.partner-modal-right {
+	    float: none;
+	    width: 100%;
+	    margin-top: 50px;
+	}
+	.p-popup-cont {
+	    margin-top: 50px;
+	    margin-bottom: 50px;
+	}
+}
+ @media (max-width: 640px) {
+	 .speaker-img img {
+	    width: auto;
+	    display: inherit;
+	    margin: 0 auto;
+	    text-align: center;
+	}
+	.speaker-description {
+	    left: 15px;
+	    bottom: -30px;
+	}
+	.home-white-logo img {
+	    width: 280px;
+	}
+	.ev-title img {
+	    width: 100%;
+	}
+	.ev-count-block {
+	    margin-right: 40px;
+	}
+	.sp-title img {
+		width: 250px;
+	}
+	.pr-content-s .ev-title img {
+	    width: 250px;
+	}
+	.co-title img {
+	    width: 250px;
+	}
+	.sp-logo-bg {
+	    width: 130px;
+	    margin: 0;
+	    height: 80px;
+	}
+	.pr-flex-b {
+	    width: 50%;
+	}
+	.pr-logo-bg {
+	    width: 150px;
+	    height: 150px;
+	    margin: 0;
+	}
+	.home-event-date p {
+		font-size: 18px;
+	}
+	.home-ticket-btn {
+	    text-align: center;
+	    margin: 50px auto 40px;
+	}
+	.home-ticket-btn a {
+		padding: 14px 60px;
+	}
+	.btn-h-speaker {
+		font-size: 12px;
+	}
+	.btn-h-partner {
+		font-size: 12px;
+	}
+  .sp-modal-left-two {
+    width: 100%;
+    float: none;
+  }
+  .sp-modal-right-two {
+    width: 100%;
+    float: none;
+  }
+
+ }
+ @media screen and (max-height: 770px) {
+	 .home-white-logo img {
+		 width: 25%;
+	 }
+	 .home-content-s {
+    padding-bottom: 30px;
+	}
+ }
+@media (max-width: 350px) {
+	.co-block-f img {
+	    width: 80%;
+	}
+  .three-ag .ag-sp-content {
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+  }
+}
+/* Landscape phones and smaller */
+@media (max-width: 767px) {
+    /* Needed for JS Media Query Breakpoints working */
+    body:before{
+        content:'xs' !important; /* Do not change unless you know what you're doing */
+        display: none !important;
+    }
+/* ------------------------------------
+    Slider
+------------------------------------- */
+    #home-slider .slider-caption{
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        max-width: 100%;
+        background: #000;
+        transform: translate(0,0);
+        -webkit-transform: translate(0,0);
+        -moz-transform: translate(0,0);
+        -ms-transform: translate(0,0);
+        -o-transform: translate(0,0);
+    }
+    #home-slider .slick-prev, .slick-next{
+        display: none !important;
+    }
+    #home-slider .slider-caption p{
+        font-size: 12px;
+        text-shadow: none;
+        font-weight: 600;
+    }
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px){
+    /*NAVBAR CUSTOMIZER*/
+    .navbar{
+        background-color: transparent; /*change if you need background*/
+        border-color: transparent;
+        border-radius: 0;
+        border:none;
+        margin-bottom: 0;
+    }
+    .navbar .navbar-nav > li > a { color: #555; /*change color of navigation*/ }
+    .navbar .navbar-nav > li > a:hover,
+    .navbar-default .navbar-nav > li > a:focus {
+        color: blue; /*change color of Navigation*/
+        background-color: transparent;  /*change if you need background*/
+    }
+    .navbar-default .navbar-nav > .current_page_parent > a,
+    .navbar-default .navbar-nav > .active > a,
+    .navbar-default .navbar-nav > .active > a:hover,
+    .navbar-default .navbar-nav > .active > a:focus {
+        color: red; /*change color of active navigation*/
+        background-color: transparent; /*change if you need background*/
+    }
+
+} /* use for all devices started from 768px width */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /* Needed for JS Media Query Breakpoints working */
+    body:before{
+        content:'sm' !important; /* Do not change unless you know what you're doing */
+        display: none !important;
+    }
+
+}
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px){
+
+} /* use for all devices started from 992px width */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* Needed for JS Media Query Breakpoints working */
+    body:before{
+        content:'md' !important; /* Do not change unless you know what you're doing */
+        display: none !important;
+    }
+
+}
+
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+    /* Needed for JS Media Query Breakpoints working */
+    body:before{
+        content:'lg' !important; /* Do not change unless you know what you're doing */
+        display: none !important;
+    }
+
+}
